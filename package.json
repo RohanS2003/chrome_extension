@@ -1,7 +1,7 @@
 {
-  "name": "web-activity-plugin",
-  "version": "0.7.3",
-  "description": "Browser time tracking extension",
+  "name": "activity-tracker",
+  "version": "",
+  "description": "time tracking extension",
   "private": true,
   "scripts": {
     "test:watch": "jest --watch",
@@ -19,20 +19,19 @@
     "postversion": "git push && git push --tags"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/PsychoSanchez/web-activity-plugin.git"
+    "type": "",
+    "url": ""
   },
   "keywords": [
     "extension",
     "time",
     "tracker"
   ],
-  "author": "Aronov Aleksandr",
-  "license": "GPL3",
+  "author": "Rohan",
+  "license": "",
   "bugs": {
-    "url": "https://github.com/PsychoSanchez/web-activity-plugin/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/PsychoSanchez/web-activity-plugin#readme",
   "devDependencies": {
     "@trivago/prettier-plugin-sort-imports": "^4.3.0",
     "@types/chrome": "^0.0.203",
