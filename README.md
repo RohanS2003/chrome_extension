@@ -1,4 +1,4 @@
-# web-activity-tracker
+# activity tracker
 
 This is a simple web activity tracker Chrome extension that can be used to track user activity on websites. It is built using Tailwind, React, Typescript and using Chrome extension manifest V3.
 
@@ -8,10 +8,7 @@ This is a simple web activity tracker Chrome extension that can be used to track
 <img width="250" alt="Screenshot 2022-12-04 at 16 17 52" src="https://user-images.githubusercontent.com/10772182/205500423-6cb4b75f-1a74-4215-be6f-652b0a18df25.png">
 </span>
 
-
 ## Privacy
-
-Extension does not share collected data from the user. It stores data locally on the user's machine.
 
 - Data is stored in the browser's storage. ([chrome.storage](https://developer.chrome.com/docs/apps/manifest/storage/), [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API))])
 - Data is not sent to any server.
